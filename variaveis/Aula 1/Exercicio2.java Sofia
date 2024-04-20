@@ -4,7 +4,17 @@
 public class Exercicio2 {
     public static void main(String[] args) {
         // Escreva seu código aqui ⬇️
+        variavell = sofia;
+        variavel2 = gabi;
+boolean EhMentira=variavell==variave2;
+       
+        variavell = sofia16
+        variavel2 = professor21
 
+boolean EhVerdade=variavel2>variavell;
+        
+        
+        
 
     }
 }
